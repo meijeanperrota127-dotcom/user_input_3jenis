@@ -23,9 +23,9 @@ List<Map<String, dynamic>> dataUser(
 void main() {
   // Panggil fungsi
   List<Map<String, dynamic>> hasil = dataUser(
-    'Erik',
-    26,
-    62.4
+    'Meijean',
+    21,
+    82.5
   );
 
   // Menampilkan hasil
